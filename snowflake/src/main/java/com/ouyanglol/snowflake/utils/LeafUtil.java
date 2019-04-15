@@ -1,4 +1,4 @@
-package com.ouyanglol.snowflake;
+package com.ouyanglol.snowflake.utils;
 
 import com.sankuai.inf.leaf.IDGen;
 import com.sankuai.inf.leaf.common.PropertyFactory;
